@@ -1,0 +1,7 @@
+numpy
+random
+tkinter
+inquirer
+functools
+time
+pytest
